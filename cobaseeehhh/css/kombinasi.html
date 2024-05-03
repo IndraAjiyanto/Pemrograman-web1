@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* untuk semua tag p yang ada di dalam tag div */
+        div p{
+            background-color: brown;
+        }
+
+        /* untuk  tag il yang khusus hanya di dalam ul */
+        ul > li{
+            background-color: red;
+        }
+
+        /* tag yang paling dekat dengan ul yaitu table */
+        ul + table{
+            background-color: aqua;
+        }
+
+        /* untuk tag yang dekat dengan  */
+        div~span{
+            background-color: chartreuse;
+        }
+
+        
+    </style>
+</head>
+<body>
+    <div>
+        <p>indra</p>
+        <p>indra</p>
+        <section>
+            <p>coba</p>
+        </section>
+    </div>
+   
+
+    <ul>
+        <li>indra</li>
+        <ol>
+            <li>indra</li>
+        <li>indra</li>
+        <li>indra</li>
+        </ul>
+        
+    </ul>
+
+    <table>
+        <tr>
+            <th>nama</th>
+            <th>jurusan</th>
+            <th>kelas</th>
+        </tr>
+        <tr>
+            <td>indra</td>
+            <td>teknik</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>indra</td>
+            <td>teknik</td>
+            <td>2</td>
+        </tr>
+    </table>
+
+    <div>
+        indra
+    </div>
+    <span>span</span>
+    <p>indra</p>
+    <span>span</span>
+</body>
+</html>
