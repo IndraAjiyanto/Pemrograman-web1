@@ -77,9 +77,21 @@
 
 
 <h1>CSS</h1>
-<p>CSS atau Cascading Style Sheet merupakan style atau gaya yang diberikan untuk html. Jadi jika di analogikan css adalah cat tembok dari sebuah rumah, jadi adi untuk pondasi di analogikan sebagai html dan sekarang cat tembok dan dekorasi yang lainnya bisa dianalogikan sebagai css yang berguna untuk mempercantik tampilan. Sama halnya website dengan menggunkan css kita bisa menstyle website tersebut dengan apa yang kita mau. Dalam pemanggilan css dapat menggunakan 3 cara yaitu inline,internal, dan eksternal. inline itu pemanggilan css yang berada di dalam baris dalam tag html, jadi kita menambahkan atribut style di dalam tag lalu masukkan kode cssnya. internal merupakan pemanggilan yang berada di dalam tag head html. Lalu yang terakhir eksternal merupakan pemanggilan css yang berada di luar file ataua css terpisah dengan file htmlnya. </p>
+<p>CSS atau Cascading Style Sheet merupakan style atau gaya yang diberikan untuk html. Jadi jika di analogikan css adalah cat tembok dari sebuah rumah, jadi adi untuk pondasi di analogikan sebagai html dan sekarang cat tembok dan dekorasi yang lainnya bisa dianalogikan sebagai css yang berguna untuk mempercantik tampilan. Sama halnya website dengan menggunkan css kita bisa menstyle website tersebut dengan apa yang kita mau. Dalam pemanggilan css dapat menggunakan 3 cara yaitu inline,internal, dan eksternal. inline itu pemanggilan css yang berada di dalam baris dalam tag html, jadi kita menambahkan atribut style di dalam tag lalu masukkan kode cssnya. internal merupakan pemanggilan yang berada di dalam tag head html. Lalu yang terakhir eksternal merupakan pemanggilan css yang berada di luar file ataua css terpisah dengan file htmlnya. Menstyle html kita harus menselector tag html untuk melakukan styling, contohnya adalah tag < p >, kita harus menselector tag p terlebih dahulu barulah kita styling sesuai keinginan kita. </p>
+<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/bc5d6e05-f771-4275-a65d-9c61316c0039">
+Gambar di atas merupakan cara menggunakan css dengan cara pemanggilan internal. Biasanya dalam menselector suatu elemen atribut class merupakan cara yang sering digunkan dalam menselector suatu elemen. Jadi dalam menselector suatu elemen menggunakan class kita hanya memanggil dengan cara ".namaclassnya".
+<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/a24580d6-c3c4-463c-8661-320f82143b9e">
+
 
 <h2>COLOR</h2>
+<p>Ini dapat digunkan untuk memberi warna pada suatu elemen.</p>
+<p>input :</p>
+<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/a6ad758a-8526-4602-bcad-632b3edf5232">
+
+<p>ouput</p>
+<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/d0f285b8-38e5-4f0d-9068-97b6bbb5fe81">
+
+<h2>BACGROUND</h2>
 
 
 
