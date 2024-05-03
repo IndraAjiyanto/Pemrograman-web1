@@ -10,3 +10,10 @@
 
 ![Screenshot (75)](https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/f9ae82fe-dbc7-4ae1-83e5-764edcda3511)
 
+
+
+
+
+# 2. PARAGRAPH
+<P>HIBGJVHFCFGCGDXFDXFEFGFHGJHTDRTFGVHVFC</P>
+
