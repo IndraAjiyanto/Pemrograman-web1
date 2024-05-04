@@ -167,12 +167,54 @@ Gambar di atas merupakan cara menggunakan css dengan cara pemanggilan internal. 
 <p>dalam mendeklarasikan variabel dalam javascript ada 4 yaitu: </p>
 <ul>
 <li>Secara otomatis</li>
-<li>Menggunakan var </li>
-<li>Menggunakan let </li>
-<li>Menggunakan const </li>
+<li>Menggunakan var</li>
+<li>Menggunakan let (tidak boleh deklarasi ulang yang sama dalam lingkup yang sama)</li>
+<li>Menggunakan const(tidak boleh menetapkan nilai kembali)</li>
 </ul>
-<p>setiap mendeklarasi variabel </p>
+<p>setiap mendeklarasi variabel itu mempunyai fungsi masing - masing</p>
+<p>input :</p>
+<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/b33fd36f-9573-44d9-8eaa-cdf468298dd7">
+<p>output :</p>
+<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/bcc0de35-333d-4723-96a6-df0989047227">
 
+<h2>TIPE DATA</h2>
+<p>terdapat beberapa tide data dalam java script :</p>
+<ol>
+<li>String</li>
+<li>Number</li>
+<li>Bigint</li>
+<li>Boolean</li>
+<li>Undefined</li>
+<li>Null</li>
+<li>Symbol</li>
+<li>Object</li>
+</ol>
+<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/92c3e962-fc57-4cd1-8ec7-de063b018643">
+
+<h2>FUNCTION</h2>
+<p>function merupakan blok kode yang dirancang untuk melakukan tugas tertentu. Dalam aturan pembuatan function dalam java script di tulis dengan "function myfunction". "function" adalah syntak yang harus ada dalam penulisan function, "myfunction()" merupakan nama dari functionnya dan "()" merupakan parameter yang nantinya akan berfungsi untuk menyimpan data. contoh penggunaan:</p>
+<p>input :</p>
+<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/d4f1171b-55a8-4c89-85d9-bb21e168e791">
+<p>output :</p>
+<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/b27d6d44-a71e-4d4c-ab56-c5f591ba1160">
+
+<h2>OBJEK</h2>
+<p>objek merupakan sebuah entitas yang memiliki properti dan method. Jika di analogikan dalam dunia nyata objek itu contohnya adalah mobil, jadi mobil itu banyak jenisnya seperti toyota, kijang, suzuki dan lain lain nama nama dari mobil tersebut di analogikna sebagai properti. Lalu fungsi mobil itu adalah bisa berjalan maksimal sesuai dengan kecepatan merk mobil masing masing  yang bisa dianalogi sebagai methodnya.</p>
+<p>input :</p>
+<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/7debf030-c5fd-4dd0-a781-1799914b10d2">
+<p>output :</p>
+<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/77b85362-6786-4092-b605-f70946baa5f8">
+
+
+<h2>EVENT</h2>
+<p>event merupakan hal yang terjadi ketika peristiwa itu bereaksi. Peristiwa HTML bisa berupa sesuatu yang dilakukan browser, atau sesuatu yang dilakukan pengguna. contoh :</p>
+<p>input :</p>
+<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/969bfb1c-d6d3-495f-a048-8b0e87c7569b">
+
+<p>output :</p>
+<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/07b51ef0-8573-45b1-8042-919948aef1f2">
+<p>ketika diklik maka akan menampilkan indra</p>
+<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/310f6ccb-826e-47f4-bf6a-d74e9b970165">
 
 
 
