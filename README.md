@@ -163,7 +163,15 @@ Gambar di atas merupakan cara menggunakan css dengan cara pemanggilan internal. 
 <h1>JAVASCRIPT</h1>
 <p>Javascript merupakan bahasa pemrograman yang populer sekarang. Jika di analogikan javascript itu sebagai fungsionalitas dari sebuah rumah, yang tadi HTML sebagai pondasi atau struktur sebuah rumah css sebagai stylenya untuk mempercantik rumah dan sekarang javascript sebagai fungsionalitas dari sebuah rumahnya, contohny adalah pintu yang digunakan untuk masuk kerumah. Sama halnya javascript, jadi dengan javascript web yang kita akan menjadi lebih pintar atau lebih interaktif.</p>
 
-<h2></h2>
+<h2>VARIABEL</h2>
+<p>dalam mendeklarasikan variabel dalam javascript ada 4 yaitu: </p>
+<ul>
+<li>Secara otomatis</li>
+<li>Menggunakan var </li>
+<li>Menggunakan let </li>
+<li>Menggunakan const </li>
+</ul>
+<p>setiap mendeklarasi variabel </p>
 
 
 
