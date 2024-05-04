@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p id="coba"></p>
+    <p id="coba1"></p>
+    <script>
+        // const orang merupakan nama objek
+        // nama_depan merupakan key dan indra merupakan properti atau nilai
+        // lalu untuk yang ada functionnya merupakan method
+    const orang = {
+        nama_depan: "Indra",
+        nama_akhir: "Ajiyanto",
+        umur: 18,
+        jurusan: "teknik informatika",
+        nama_panjang : function(){
+            return this.nama_depan + " "+this.nama_akhir;
+        }
+    }
+
+    // cara akses objek
+    document.getElementById("coba").innerHTML = orang.nama_panjang()
+    document.getElementById("coba1").innerHTML = orang.jurusan
+    </script>
+</body>
+</html>
